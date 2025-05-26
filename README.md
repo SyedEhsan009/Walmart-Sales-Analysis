@@ -1,4 +1,5 @@
 🛒 Walmart Sales Data Analysis with SQL
+
 This project involves analyzing a real-world Walmart sales dataset using SQL. 
 It includes data preprocessing, feature engineering (like extracting day, time, and VAT), and answering various business-focused questions across sales, customers, products, and time analysis using advanced SQL queries.
 
